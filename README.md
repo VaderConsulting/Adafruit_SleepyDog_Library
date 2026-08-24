@@ -2,6 +2,7 @@
 
 Arduino library to use the watchdog timer for system reset and low power sleep. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.6.0. Upstream: <https://github.com/adafruit/Adafruit_SleepyDog>.
 
+**Source last updated:** 2021-12-04  
 **Language:** C++ / Arduino  
 **Target:** Arduino (avr,samd,nrf52,teensy,esp32,esp8266)  
 **Output:** Arduino library

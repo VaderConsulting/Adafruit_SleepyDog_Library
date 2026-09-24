@@ -1,6 +1,6 @@
 # Adafruit_SleepyDog_Library
 
-Arduino library to use the watchdog timer for system reset and low power sleep. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.6.0. Upstream: <https://github.com/adafruit/Adafruit_SleepyDog>.
+Arduino library to use the watchdog timer for system reset and low power sleep. Original author: Adafruit. This is my working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.6.0. Upstream: <https://github.com/adafruit/Adafruit_SleepyDog>.
 
 **Source last updated:** 2021-12-04  
 **Language:** C++ / Arduino  
@@ -30,7 +30,7 @@ Install this folder as an Arduino library (Sketch → Include Library → Add .Z
 - **Version:** 1.6.0
 - **Upstream URL:** <https://github.com/adafruit/Adafruit_SleepyDog>
 - **Category:** Other
-- This repository is Dave Robinson's working copy for catalogue/reference; authorship stays with the original authors.
+- This repository is my working copy for catalogue/reference; authorship stays with the original authors.
 
 ## License
 
